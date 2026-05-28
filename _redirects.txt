@@ -1,0 +1,10 @@
+﻿/drain-cleaning           /drain-cleaning.html           200
+/water-heater-services    /water-heater-services.html    200
+/plumbing-repairs         /plumbing-repairs.html         200
+/emergency-plumbing       /plumbing-repairs.html         200
+/sewer-line-repair        /sewer-line-repair.html        200
+/leak-detection           /leak-detection.html           200
+/toilet-repair            /toilet-repair.html            200
+/faucet-sink-repair       /faucet-sink-repair.html       200
+/sump-pump-service        /sump-pump-service.html        200
+/service-area             /service-area.html             200

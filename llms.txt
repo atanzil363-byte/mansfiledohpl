@@ -1,0 +1,19 @@
+﻿# Mansfield Plumbing & Drain
+
+Local plumbing company website for Mansfield, Ohio and nearby service areas.
+
+## Key Pages
+- index.html - emergency plumber, drain cleaning, water heaters, plumbing repairs
+- drain-cleaning.html - clogged drain, sewer backup, rooter service
+- water-heater-services.html - water heater repair and installation
+- plumbing-repairs.html - 24/7 emergency plumbing repair
+- sewer-line-repair.html - sewer line backups, camera inspection, root intrusion
+- leak-detection.html - hidden water leaks and pipe leak repair
+- toilet-repair.html - clogged, running, leaking, and replacement toilets
+- faucet-sink-repair.html - faucets, sinks, garbage disposals, shutoff valves
+- sump-pump-service.html - sump pump repair, replacement, and backup systems
+- service-area.html - Mansfield, Ontario, Lexington, Shelby, Bellville, Ashland
+
+## Contact
+Phone: (614) 957-8298
+Facebook: https://www.facebook.com/share/18rZhbAQnC/
